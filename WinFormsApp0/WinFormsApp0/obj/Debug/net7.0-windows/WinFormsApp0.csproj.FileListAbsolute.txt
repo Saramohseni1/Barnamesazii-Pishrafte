@@ -1,0 +1,17 @@
+C:\Users\Fanoos\source\repos\WinFormsApp0\WinFormsApp0\obj\Debug\net7.0-windows\WinFormsApp0.csproj.AssemblyReference.cache
+C:\Users\Fanoos\source\repos\WinFormsApp0\WinFormsApp0\obj\Debug\net7.0-windows\WinFormsApp0.Form1.resources
+C:\Users\Fanoos\source\repos\WinFormsApp0\WinFormsApp0\obj\Debug\net7.0-windows\WinFormsApp0.csproj.GenerateResource.cache
+C:\Users\Fanoos\source\repos\WinFormsApp0\WinFormsApp0\obj\Debug\net7.0-windows\WinFormsApp0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fanoos\source\repos\WinFormsApp0\WinFormsApp0\obj\Debug\net7.0-windows\WinFormsApp0.AssemblyInfoInputs.cache
+C:\Users\Fanoos\source\repos\WinFormsApp0\WinFormsApp0\obj\Debug\net7.0-windows\WinFormsApp0.AssemblyInfo.cs
+C:\Users\Fanoos\source\repos\WinFormsApp0\WinFormsApp0\obj\Debug\net7.0-windows\WinFormsApp0.csproj.CoreCompileInputs.cache
+C:\Users\Fanoos\source\repos\WinFormsApp0\WinFormsApp0\bin\Debug\net7.0-windows\WinFormsApp0.exe
+C:\Users\Fanoos\source\repos\WinFormsApp0\WinFormsApp0\bin\Debug\net7.0-windows\WinFormsApp0.deps.json
+C:\Users\Fanoos\source\repos\WinFormsApp0\WinFormsApp0\bin\Debug\net7.0-windows\WinFormsApp0.runtimeconfig.json
+C:\Users\Fanoos\source\repos\WinFormsApp0\WinFormsApp0\bin\Debug\net7.0-windows\WinFormsApp0.dll
+C:\Users\Fanoos\source\repos\WinFormsApp0\WinFormsApp0\bin\Debug\net7.0-windows\WinFormsApp0.pdb
+C:\Users\Fanoos\source\repos\WinFormsApp0\WinFormsApp0\obj\Debug\net7.0-windows\WinFormsApp0.dll
+C:\Users\Fanoos\source\repos\WinFormsApp0\WinFormsApp0\obj\Debug\net7.0-windows\refint\WinFormsApp0.dll
+C:\Users\Fanoos\source\repos\WinFormsApp0\WinFormsApp0\obj\Debug\net7.0-windows\WinFormsApp0.pdb
+C:\Users\Fanoos\source\repos\WinFormsApp0\WinFormsApp0\obj\Debug\net7.0-windows\WinFormsApp0.genruntimeconfig.cache
+C:\Users\Fanoos\source\repos\WinFormsApp0\WinFormsApp0\obj\Debug\net7.0-windows\ref\WinFormsApp0.dll
